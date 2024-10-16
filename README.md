@@ -1,4 +1,4 @@
-# hyde_extras
+# ⦮ ⦯
    <pre>  
      |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.\  ;-;;,_
@@ -7,7 +7,7 @@ ZZZzz /,`.-'`'    -.\  ;-;;,_
 
 </pre>
 
-Hello! x.x ⦮ ⦯
+Hello! x.x 
 
 This repo is just a back up of my /.config folder. Hopefully i maintain this
 
