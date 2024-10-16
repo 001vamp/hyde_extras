@@ -9,8 +9,9 @@ ZZZzz /,`.-'`'    -.\  ;-;;,_
 
 Hello! x.x 
 
-This repo is just a back up of my /.config folder. Hopefully i maintain this
+This repo is just a back up of my /.config folder. Hopefully i maintain this.
 
+<pre>
             *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
                  MMMM88&&&&&&&
@@ -32,7 +33,7 @@ This repo is just a back up of my /.config folder. Hopefully i maintain this
   |  |  |  |(_(  |  |  (( |  |  |  |  |  |  |
   |  |  |  |  |  |  |  |\)|  |  |  |  |  |  |
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
+</pre>
 
 
 
