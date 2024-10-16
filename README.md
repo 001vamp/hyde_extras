@@ -4,7 +4,8 @@
 ZZZzz /,`.-'`'    -.\  ;-;;,_
      |,4-  ) )-,_. ,\\ (  `'-'
     '---''(_/--'  `-'\_) 
-       
+
+
 Hello! x.x 
 
 This repo is just a back up of my /.config folder. Hopefully i maintain this
