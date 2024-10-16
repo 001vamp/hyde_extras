@@ -5,9 +5,9 @@ ZZZzz /,`.-'`'    -.\  ;-;;,_
      |,4-  ) )-,_. ,\\ (  `'-'
     '---''(_/--'  `-'\_) 
 
-<pre>
+</pre>
 
-Hello! x.x 
+Hello! x.x ⦮ ⦯
 
 This repo is just a back up of my /.config folder. Hopefully i maintain this
 
